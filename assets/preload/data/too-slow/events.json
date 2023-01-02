@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": null,
+		"player1": "bidu",
+		"player2": "amy",
+		"player3": null,
+		"events": [
+			[
+				61200,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"1"
+					]
+				]
+			],
+			[
+				112875,
+				[
+					[
+						"Play Animation",
+						"firstDeath",
+						"BF"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Play Animation",
+						"deathConfirm",
+						"BF"
+					]
+				]
+			],
+			[
+				114675,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "too-slow"
+	}
+}
